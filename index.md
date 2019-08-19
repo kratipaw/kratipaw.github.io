@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Software Projects
 
 [Chat Room Application](/chat_room_app)
 <i>Chat room to communicate to other users</i>
