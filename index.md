@@ -4,31 +4,24 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/image-name.jpg?raw=true" alt='to be added'/>
+[Chat Room Application](/chat_room_app)
+<i>Chat room to communicate to other users</i>
 
 ---
-[Project 2 Title](/project_2)
-<img src="images/image-name.jpg?raw=true" alt='to be added'/>
+[Car Website Backend](/car_website)
+<i>Car website backend using Spring Boot</i>
 
 ---
-[Project 3 Title](/project_3)
-<img src="images/image-name.jpg?raw=true" alt='to be added'/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://kratipaw.github.io/)
-- [Project 2 Title](http://kratipaw.github.io/)
-- [Project 3 Title](http://kratipaw.github.io/)
-- [Project 4 Title](http://kratipaw.github.io/)
-- [Project 5 Title](http://kratipaw.github.io/)
+[Parking Lot](/parking_lot)
+<i>Parking Lot that can accommodate various types of vehicles</i>
 
 ---
 
+### Blogs
 
-
+- [Chat Room Application](http://kratipaw.github.io/)
+- [Car Website Backend](http://kratipaw.github.io/)
+- [Parking Lot](http://kratipaw.github.io/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
