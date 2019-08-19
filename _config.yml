@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Krati Paw Portfolio
+logo: "/images/logo.png?raw=true"
+description: > 
+  Software Engineer with 5+ years experience building applications and services in the ITOps and infrastructure monitoring space using Java, C++. 
   <br><br>
-  Second description 
+  Adept in Java, Problem Solving (Top 1% coder on InterviewBit), OOPS paradigm, Git, Scala.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kratipaw/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # Google Analytics tracking ID to be added here
