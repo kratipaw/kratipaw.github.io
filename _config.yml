@@ -9,3 +9,5 @@ description: >
   <a href="https://www.github.com/kratipaw/">GitHub</a> 
   
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+theme: jekyll-theme-dinky
