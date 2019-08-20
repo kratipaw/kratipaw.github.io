@@ -15,5 +15,3 @@
 [Parking Lot](/parking_lot)<br>
 <i>Parking Lot that can accommodate various types of vehicles</i>
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
