@@ -1,7 +1,5 @@
 ## Portfolio
 
----
-
 ### Software Projects
 
 [Chat Room Application](/chat_room_app)<br>
