@@ -1,11 +1,7 @@
 title: Krati Paw Portfolio
-logo: "/images/logo.png?raw=true"
 description: > 
   Software Engineer with 5+ years experience building applications and services in the ITOps and infrastructure monitoring space using Java, C++. 
   <br><br>
   Adept in Java, Problem Solving (DS & Algo, Top 1% coder in InterviewBit), OOPS, REST, GraphQL, Spring Boot, MySQL, MongoDB, Swagger, OAuth, Jenkins, Git, Scala.
-  <br><br>
-  <a href="https://www.linkedin.com/in/kratipaw/">LinkedIn</a><br> 
-  <a href="https://www.github.com/kratipaw/">GitHub</a>
 
 theme: jekyll-theme-architect
