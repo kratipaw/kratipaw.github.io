@@ -12,3 +12,7 @@
 ---
 [eCommerce App](/eCommerce_app)<br>
 <i>REST backend and Authorization for a eCommerce application</i>
+
+---
+[Parking Lot App](/parking_lot)<br>
+<i>Develop an application that can solve the problem of parking vehicles in a parking lot.</i>
